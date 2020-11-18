@@ -1,8 +1,6 @@
 const inquirer = require('inquirer')
 const fs = require('fs')
-const badge = [{
-  'MIT': '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
-}, { 'public domain': '[![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/)' }, { 'Apache': '[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'}]
+
 let generateMarkdown = require('./utils/generateMarkdown')
 
 // array of questions for user
