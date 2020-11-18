@@ -17,12 +17,12 @@ function generateMarkdown(data) {
   ${data.description}
   ***
   ## Table of Contents
-  Installation  
-  Usage  
-  License  
-  Contributing  
-  Tests  
-  Questions  
+  [Installation instructions](#instalation-instructions)  
+  [Usage description](#usage-description)  
+  [License information](#license-information)  
+  [Contribution instructions](#contribution-instructions)  
+  [Testing procedure](#testing-procedure)  
+  [Questions](#questions)  
   ## Instalation instructions
   ${data.instalation}  
   ## Usage description
