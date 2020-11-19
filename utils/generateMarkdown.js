@@ -32,7 +32,7 @@ function generateMarkdown(data) {
   ## Contribution instructions
   ${data.contributing}  
   ## Testing procedure
-  ${data.testing}  
+  ${data.test}  
   ## Questions  
   If you have any questions you can reach me at ${data.email} 
 
