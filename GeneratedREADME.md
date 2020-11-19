@@ -1,6 +1,6 @@
 [![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)](https://opendatacommons.org/licenses/pddl/)
   # Readme Generator
-  This app helps developers create readme files for their GitHub repos.
+  This app helps developers create readme files for their GitHub repos
   ***
   ## Table of Contents
   [Installation instructions](#instalation-instructions)  
@@ -12,7 +12,7 @@
   ## Instalation instructions
   Clone this repo. Make sure node is installed on your system. Run npm init in terminal.  
   ## Usage description
-  Run node index.js from inside of the terminal. Follow prompts to enter information. Copy md file to your project's repo.  
+  Run node index.js from inside of the terminal.  Follow prompts to enter information.  Copy md file to your project's repo.  
   ## License information
   public domain   
   ## Contribution instructions
