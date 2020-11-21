@@ -20,7 +20,8 @@ function generateMarkdown(data) {
   [Installation instructions](#instalation-instructions)  
   [Usage description](#usage-description)  
   [License information](#license-information)  
-  [Contribution instructions](#contribution-instructions)  
+  [Contributors](#contributors)  
+  [Technology used](#technology-used)  
   [Testing procedure](#testing-procedure)  
   [Questions](#questions)  
   ## Instalation instructions
@@ -29,8 +30,10 @@ function generateMarkdown(data) {
   ${data.usage}  
   ## License information
   ${data.license}   
-  ## Contribution instructions
+  ## Contributors
   ${data.contributing}  
+  ## Technology used
+  ${data.technology}  
   ## Testing procedure
   ${data.test}  
   ## Questions  
